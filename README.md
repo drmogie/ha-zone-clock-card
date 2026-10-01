@@ -1,6 +1,6 @@
 # Zone Clock Card
 
-**Version:** 2026.09.13.1
+**Version:** 2026.09.30.01
 
 A custom [Home Assistant](https://www.home-assistant.io/) Lovelace card - a "Weasley Clock" style widget that shows each tracked person's avatar next to whichever zone category they're currently in. Group real HA zones into named categories, pick a layout, and watch people move as their location changes.
 
@@ -97,6 +97,7 @@ Each **category** object:
 
 ## Changelog
 
+- **2026.09.30.01** - Version number changed to the two-digit format. No other changes.
 - **2026.09.13.1** - Initial release under the `ha-` naming convention. Current feature set: dual layouts (clock face + columns), collapsible/reorderable editor for categories and people, radial chain-stacking and clockwise/counter-clockwise arc animation in Clock face mode, proportional label/avatar scaling, and compaction-to-fit in Columns mode.
 
 ## License
